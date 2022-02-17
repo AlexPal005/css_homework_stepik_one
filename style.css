@@ -65,9 +65,11 @@ body {
 }
 #text_one{
     font-size: 32px;
-    width:1219px;
-    margin: 0 auto;
+    width:1100px;
+    padding-left: 55px;
+    padding-right: 55px;
     font-family: sans-serif;
+    margin:0 auto;
 }
 #text_one p{
     padding-left:70px;
