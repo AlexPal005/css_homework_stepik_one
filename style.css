@@ -2,6 +2,7 @@ header{
     background-color: #007765;
     position: fixed;
     width:100%;
+    top:0;
 }
 .text_on_logo{
     width:1219px;
@@ -41,8 +42,7 @@ body {
 .fontgreen{
     background-image:url(green.png);
     background-size: 100% 100%;
-    margin-left:0;
-    margin-right: 0;
+
 }
 .mainwords{
     color:white;
@@ -51,8 +51,6 @@ body {
     padding-top: 230px;
     padding-bottom: 160px;
     font-size: 72px;
-    margin: 0 auto;
-
 
 }
 #problem{
