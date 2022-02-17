@@ -1,0 +1,239 @@
+header{
+    background-color: #007765;
+    position: fixed;
+    width:100%;
+}
+.text_on_logo{
+    width:1219px;
+    margin: 0 auto;
+}
+.logo{
+    width: 183px;
+    height: 30px;
+    padding: 20px 0 19px 30px;
+}
+body {
+    margin:0;
+}
+.linkhead1{
+    float: right;
+    color: white;
+    text-decoration: none;
+    padding: 20px 5px 15px 0px;
+    font-size: 24px;
+
+}
+.linkhead2{
+    float: right;
+    color: white;
+    text-decoration: none;
+    padding: 20px 5px 15px 0px;
+    font-size: 24px;
+
+}
+.linkhead3{
+    float: right;
+    color: white;
+    text-decoration: none;
+    padding: 20px 100px 15px 0px;
+    font-size: 24px;
+}
+.fontgreen{
+    background-image:url(green.png);
+    background-size: 100% 100%;
+
+}
+.mainwords{
+    color:white;
+    font-family: sans-serif;
+    text-align:center;
+    padding-top: 230px;
+    padding-bottom: 160px;
+    font-size: 72px;
+    margin: 0 auto;
+    width: 1219px;
+
+}
+#problem{
+    color:#007765;
+    text-align: center;
+    font-size: 55px;
+    font-family: sans-serif;
+    width: 1219px;
+    margin:20px auto 0px auto;
+}
+#text_one{
+    font-size: 32px;
+    width:1219px;
+    margin: 0 auto;
+    font-family: sans-serif;
+}
+#text_one p{
+    padding-left:70px;
+    padding-right: 20px;
+}
+#bluephoto{
+    background-image: url(Hero.png);
+    background-size: 100% 100%;
+    height: 483px;
+}
+#bluephoto > p{
+    color: white;
+    text-align: center;
+    padding: 140px 70px 127px 70px;
+    font-size: 48px;
+    font-family: sans-serif;
+    width:1219px;
+    margin: 0 auto;
+}
+#introducing{
+    color:#007765;
+    text-align: center;
+    font-size: 55px;
+    margin-top:20px;
+    margin-bottom: 0px;
+    font-family: sans-serif;
+    width:1219px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+#ppc{
+    width:1219px;
+    margin: 0 auto;
+}
+#ppc > img{
+    width: 115px;
+    height: 115px;
+    float: left;
+    margin-right: 48px;
+    margin-left:70px;
+}
+#ppc > p{
+    font-size: 32px;
+    margin-right: 20px;
+    font-family: sans-serif;
+    width:1219px;
+
+}
+#text_two{
+    font-size: 32px;
+    font-family: sans-serif;
+    width:1219px;
+    margin: 0 auto;
+}
+#text_two p{
+    padding-left: 70px;
+    padding-right: 20px;
+}
+#team_block > h1 {
+    color:#007765;
+    text-align: center;
+    font-size: 55px;
+    margin-top:10px;
+    margin-bottom: 1px;
+    font-family: sans-serif;
+    padding-top: 48px;
+    margin-bottom: 1px;
+}
+#team_block{
+    background-color: #EEEEEE;
+    height: 845px;
+    margin-top: 100px;
+}
+#img1{
+    padding: 60px 90px 10px 135px;
+    width: 168px;
+    height: 168px;
+}
+#richard{
+    margin-left: 120px;
+    font-size: 24px;
+    color:#007765;
+    font-family: sans-serif;
+}
+#second_caption{
+    margin-left: 155px;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+figure{
+    display:inline-block;
+}
+#img2{
+    padding: 10px 5px;
+    width: 168px;
+    height: 168px;
+}
+#second_second_caption{
+    margin-left: 11px;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+#img3{
+    padding: 11px 90px;
+    width: 168px;
+    height: 168px;
+}
+#betram{
+    margin-left: 80px;
+    font-size: 24px;
+    color:#007765;
+    font-family: sans-serif;
+}
+#third_second_caption{
+    margin-left: 78px;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+#the_team{
+    background-color: #EEEEEE ;
+    padding-top: 20px;
+}
+#the_team h1{
+     color:#007765;
+     text-align: center;
+     font-size: 55px;
+     margin: 20px auto 0 auto;
+     font-family: sans-serif;
+     width:1219px;
+ }
+ table img{
+     height: 160px;
+     width: 160px;
+ }
+ table{
+     margin:0 auto;
+ }
+ .image{
+     padding-left: 100px;
+     padding-right: 100px;
+     padding-top: 30px;
+ }
+ .text_table{
+     padding-top: 15px;
+     text-align-last: center;
+ }
+ .text_table b{
+     font-size: 24px;
+     color:#007765;
+     font-family: sans-serif;
+ }
+ .text_table_second_line{
+     font-size: 18px;
+     font-family: sans-serif;
+ }
+ #the_team{
+     padding-bottom: 80px;
+     margin: 0 auto;
+ }
+ #info{
+     background-color: #333333;
+     text-align: center;
+     color: #EEEEEE;
+     font-size: 20px;
+     padding-bottom: 50px;
+     padding-top: 50px;
+     font-family: sans-serif;
+
+ }
