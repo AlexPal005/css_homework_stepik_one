@@ -43,7 +43,7 @@ body {
     background-image:url(green.png);
     background-size: 100% 100%;
     width: 100%;
-    margin:0;
+
 
 }
 .mainwords{
@@ -53,6 +53,7 @@ body {
     padding-top: 230px;
     padding-bottom: 160px;
     font-size: 72px;
+    width:100%;
 
 }
 #problem{
