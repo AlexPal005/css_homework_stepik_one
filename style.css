@@ -16,28 +16,20 @@ header{
 body {
     margin:0;
 }
-.linkhead1{
-    float: right;
-    color: white;
-    text-decoration: none;
-    padding: 20px 5px 15px 0px;
-    font-size: 24px;
-
+#logo_links{
+    display: flex;
+    flex-direction: row-reverse;
+    padding-top: 20px;
+    padding-right: 50px;
 }
-.linkhead2{
+.linkhead{
     float: right;
     color: white;
     text-decoration: none;
-    padding: 20px 5px 15px 0px;
     font-size: 24px;
-
 }
-.linkhead3{
-    float: right;
-    color: white;
-    text-decoration: none;
-    padding: 20px 100px 15px 0px;
-    font-size: 24px;
+#header_main_green{
+    display: flex;
 }
 .fontgreen{
     background-image:url(green.png);
