@@ -42,7 +42,7 @@ body {
 .fontgreen{
     background-image:url(green.png);
     background-size: 100% 100%;
-
+    width: 100%;
 }
 .mainwords{
     color:white;
