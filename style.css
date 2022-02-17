@@ -40,8 +40,9 @@ body {
 .fontgreen{
     background-image:url(green.png);
     background-size: 100% 100%;
-    width: 100%;
+    width: 1219px;
     margin: 0 auto;
+
 
 }
 .mainwords{
@@ -65,28 +66,31 @@ body {
 }
 #text_one{
     font-size: 32px;
-    width:900px;
+    width:1219px;
     padding-left: 55px;
     padding-right: 55px;
     font-family: sans-serif;
-    margin:0 auto;
+    margin: 0 auto;
+
 }
 #text_one p{
     padding-left:70px;
     padding-right: 20px;
+
 }
 #bluephoto{
     background-image: url(Hero.png);
     background-size: 100% 100%;
     height: 483px;
-    width:100%;
+    margin: 0 auto;
 }
-#text_on_blue_photo{
+#bluephoto > p{
     color: white;
     text-align: center;
     padding: 140px 70px 127px 70px;
     font-size: 48px;
     font-family: sans-serif;
+    width:1219px;
     margin: 0 auto;
 }
 #introducing{
