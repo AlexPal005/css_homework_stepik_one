@@ -18,8 +18,10 @@ body {
 }
 #logo_links{
     display: flex;
+    justify-content: flex-end;
     flex-direction: row-reverse;
     padding-top: 20px;
+    padding-bottom: 20px;
     padding-right: 50px;
 }
 .linkhead{
@@ -27,9 +29,13 @@ body {
     color: white;
     text-decoration: none;
     font-size: 24px;
+    margin-left: 10px;
+    white-space: nowrap;
 }
 #header_main_green{
     display: flex;
+    width: 1100px;
+    margin: 0 auto;
 }
 .fontgreen{
     background-image:url(green.png);
