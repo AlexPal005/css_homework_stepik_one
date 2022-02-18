@@ -40,10 +40,14 @@ body {
 .fontgreen{
     background-image:url(green.png);
     background-size: 100% 100%;
-    width: 1219px;
+    width: 100%;
     margin: 0 auto;
-    min-width: 100%; min-height: 100%;
 
+}
+@media screen and (max-width : 500px ){
+    .fontgreen{
+        width: 500px;
+    }
 }
 .mainwords{
     color:white;
